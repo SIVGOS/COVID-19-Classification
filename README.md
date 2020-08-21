@@ -1,7 +1,7 @@
 # COVID-19-Classification
 A model is created which can tell whether any given Chest X-Ray image is "Covid-19 Positive" or "Pneumonia" or "Normal". 
 
-There are only these three classes and each image can belong to only one class. You are required to use only the shared data for training purpose.
+There are only these three classes and each image can belong to only one class.
 
 The code automatically downloads the data which is available at a shared folder.
 
